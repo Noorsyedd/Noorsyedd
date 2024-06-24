@@ -12,9 +12,10 @@ I am currently doing my internship in the IT & MIS Division (MIS & CIB) at Agran
   - Completed HSC from Comilla Govt. College
   - Completed SSC from Comilla Zilla School
 
-- **Skills:**
-  - **Front-end Development:** HTML, CSS, Vue.js
+- **Favourite Tech:**
+  - **Front-end Development:** Javascript, HTML, CSS, Vue.js
   - **Back-end Development:** PHP, SQL, Codeigniter, Laravel
+    
   - **Networking:** Cisco CCNA: Introduction to Networks (Module 1)
     - Configured switches and end devices for local and remote network access
     - Explained Ethernet operations in a switched network
