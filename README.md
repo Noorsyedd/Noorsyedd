@@ -49,6 +49,8 @@ During my four years as a Cadet in the Bangladesh National Cadet Corps (BNCC), I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noorsyedd&layout=compact)
 
 ## Contact
+Connect with me on 
+- [LinkedIn](https://www.linkedin.com/in/noor-syed-578521307/)
 
 - 📫 How to reach me: [noor.s.d.nov@gmail.com](mailto:your-email@example.com)
 
