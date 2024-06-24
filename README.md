@@ -6,11 +6,23 @@
 
 I am currently doing my internship in the IT & MIS Division (MIS & CIB) at Agrani Bank PLC. I am pursuing a B.Sc. in Computer Science and Engineering at Independent University, Bangladesh (IUB), with a minor in MIS (Management Information System). I have completed all my courses except internship. Here is a summary of my academic background and skills:
 
-- **Education:**
-  - B.Sc. in Computer Science and Engineering, Independent University, Bangladesh (IUB)
-    - Minor in Management Information System (MIS)
-  - Completed HSC from Comilla Govt. College
-  - Completed SSC from Comilla Zilla School
+## Education
+
+### Independent University, Bangladesh (IUB)
+
+![IUB](https://img.shields.io/badge/IUB-0073CF?style=for-the-badge&logo=book&logoColor=white)
+- **Degree:** B.Sc. in Computer Science and Engineering
+  - **Minor:** Management Information System (MIS)
+
+### Comilla Govt. College
+
+![Comilla Govt. College](https://img.shields.io/badge/Comilla_Govt_College-1572B6?style=for-the-badge&logo=school&logoColor=white)
+- **Completed HSC**
+
+### Comilla Zilla School
+
+![Comilla Zilla School](https://img.shields.io/badge/Comilla_Zilla_School-E34F26?style=for-the-badge&logo=school&logoColor=white)
+- **Completed SSC**
 
 ## Favourite Tech
 
