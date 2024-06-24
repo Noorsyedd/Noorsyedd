@@ -1,4 +1,4 @@
-# Hello, I'm [Syed Noor] 👋
+# Hello, I'm Syed Noor 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Noorsyedd)
 
