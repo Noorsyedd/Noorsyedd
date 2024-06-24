@@ -25,15 +25,6 @@ I am currently doing my internship in the IT & MIS Division (MIS & CIB) at Agran
     - Troubleshot connectivity in small networks
     - Hands-on experience with Cisco Packet Tracer for network simulation and troubleshooting
 
-## Projects
-
-### Techfest Spring 2024
-
-At the Techfest Spring 2024 organized by Independent University, Bangladesh, I showcased my project, an F1 Racing Car under the Segment Formula E. This innovative project involved:
-
-- Designing and building a miniature racing car using a motor driver, Bluetooth module, voltage regulator, Arduino Nano, gear motor, and LiPo battery.
-- The car was controlled wirelessly via Bluetooth, demonstrating advanced integration of hardware components and precise motor control.
-
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Noorsyedd&show_icons=true&hide_border=true)
