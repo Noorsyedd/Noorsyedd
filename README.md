@@ -4,7 +4,7 @@
 
 ## About Me
 
-Former Intern in the IT & MIS Division (MIS & CIB) at Agrani Bank PLC.Here is a summary of my academic background and skills:
+Former Intern in the IT & MIS Division (MIS & CIB) at Agrani Bank PLC. Here is a summary of my academic background and skills:
 
 - **Education:**
   - B.Sc. in Computer Science and Engineering, Independent University, Bangladesh (IUB)
