@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am currently doing my internship in the IT & MIS Division (MIS & CIB) at Agrani Bank PLC. I am pursuing a B.Sc. in Computer Science and Engineering at Independent University, Bangladesh (IUB), with a minor in MIS (Management Information System). I have completed all my courses except internship. Here is a summary of my academic background and skills:
+Former Intern in the IT & MIS Division (MIS & CIB) at Agrani Bank PLC.Here is a summary of my academic background and skills:
 
 - **Education:**
   - B.Sc. in Computer Science and Engineering, Independent University, Bangladesh (IUB)
